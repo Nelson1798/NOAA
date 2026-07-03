@@ -40,11 +40,11 @@ The primary objective is to equip national meteorological agencies with the skil
 
 All notebooks authenticate with Google Earth Engine using a shared service account and load pre-computed datasets from the NOAA-workshop2 Shared Drive, so no manual data upload or API configuration is required.
 
-| Resource | Details |
+<!-- | Resource | Details |
 |---|---|
 | Service account | `gee-notebook-user@natural-notch-435413-j3.iam.gserviceaccount.com` |
 | Key file (Drive) | [Download](https://drive.google.com/file/d/181IKB3sJ3iUn6ZOZbg50htgH2JKcxFkT/view?usp=sharing) |
-| Shared Drive | `Shareddrives/NOAA-workshop2` |
+| Shared Drive | `Shareddrives/NOAA-workshop2` | -->
 <br>
 <br>
 <br>
