@@ -25,6 +25,26 @@ The primary objective is to equip national meteorological agencies with the skil
 **Core Objective:** Demonstrate the advantages of high-resolution temperature data in capturing microclimates and computing derived metrics such as Potential Evapotranspiration (PET) for improved assessment of heat-related risks.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nelson1798/NOAA/blob/main/03_Temperature_Quality_PET.ipynb)
+
+---
+
+## Focus Area 4 — Agro-Ecological Zoning with PyAEZ
+
+**Core Objective:** Synthesise climate monitoring outputs from Focus Areas 1–3 into agricultural interpretation using PyAEZ (FAO/AIT), computing thermal climate classifications, Length of Growing Period (LGP), and crop suitability maps for Ethiopia, Tanzania, Eritrea, and Djibouti.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nelson1798/NOAA/blob/main/04_AgroEcological_Zoning_PyAEZ.ipynb)
+
+---
+
+## Service Account & Shared Drive
+
+All notebooks authenticate with Google Earth Engine using a shared service account and load pre-computed datasets from the NOAA-workshop2 Shared Drive, so no manual data upload or API configuration is required.
+
+| Resource | Details |
+|---|---|
+| Service account | `gee-notebook-user@natural-notch-435413-j3.iam.gserviceaccount.com` |
+| Key file (Drive) | [Download](https://drive.google.com/file/d/181IKB3sJ3iUn6ZOZbg50htgH2JKcxFkT/view?usp=sharing) |
+| Shared Drive | `Shareddrives/NOAA-workshop2` |
 <br>
 <br>
 <br>
