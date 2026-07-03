@@ -36,9 +36,9 @@ The primary objective is to equip national meteorological agencies with the skil
 
 ---
 
-## Service Account & Shared Drive
+<!-- ## Service Account & Shared Drive
 
-All notebooks authenticate with Google Earth Engine using a shared service account and load pre-computed datasets from the NOAA-workshop2 Shared Drive, so no manual data upload or API configuration is required.
+All notebooks authenticate with Google Earth Engine using a shared service account and load pre-computed datasets from the NOAA-workshop2 Shared Drive, so no manual data upload or API configuration is required. -->
 
 <!-- | Resource | Details |
 |---|---|
