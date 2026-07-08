@@ -30,7 +30,7 @@ The primary objective is to equip national meteorological agencies with the skil
 
 ## Focus Area 4 — Agro-Ecological Zoning with PyAEZ
 
-**Core Objective:** Synthesise climate monitoring outputs from Focus Areas 1–3 into agricultural interpretation using PyAEZ (FAO/AIT), computing thermal climate classifications, Length of Growing Period (LGP), and crop suitability maps for Ethiopia, Tanzania, Eritrea, and Djibouti.
+**Core Objective:** Synthesise climate monitoring outputs from Focus Areas 1–3 into agricultural interpretation using PyAEZ (FAO/AIT), computing thermal climate classifications, Length of Growing Period (LGP), and crop suitability maps for Somalia, Sudan Ethiopia, Tanzania, Eritrea, and Djibouti.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nelson1798/NOAA/blob/main/04_AgroEcological_Zoning_PyAEZ.ipynb)
 
