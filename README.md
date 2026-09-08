@@ -60,3 +60,24 @@ The primary objective is to equip national meteorological agencies with the skil
 - API access to CBAM
 - Token access from NCEI
 - Google Account
+
+## Running outside Google Colab
+
+The notebooks also run in Jupyter Notebook/JupyterLab, including Anaconda.
+Clone this repository, open a terminal in the repository folder, and install
+the dependencies into the environment that will run Jupyter:
+
+```bash
+conda create -n noaa-workshop python=3.11
+conda activate noaa-workshop
+pip install -r requirements.txt
+pip install -e .
+jupyter lab
+```
+
+Open the notebook from that repository folder and run its cells from the top.
+On Colab, the existing Shared Drive remains the cache. Locally, data is saved
+in `.noaa-workshop-cache/` beside the notebooks instead. To place this cache
+elsewhere, set `NOAA_WORKSHOP_DATA_DIR` before starting Jupyter. When a custom
+data upload is requested in local Jupyter, enter the path to each file in the
+prompt shown by the notebook.
