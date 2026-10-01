@@ -1,5 +1,12 @@
 # NOAA Workshop
 
+> **Branch `madagascar-work`:** all notebooks default to **Madagascar**. The
+> rainfall period is Jul 2021 – Jun 2023, with cyclones Batsirai, Ana, Emnati and
+> Freddy as case studies; the temperature analysis uses the October 2023
+> heatwave. The other countries are still selectable. See
+> [MADAGASCAR_NOTES.md](MADAGASCAR_NOTES.md) for datasets, date-range reasoning
+> and limitations.
+
 The primary objective is to equip national meteorological agencies with the skills to access, explore, and apply high-resolution reanalysis datasets. A specific focus is on understanding severe weather events, including extreme rainfall, high winds, and temperature anomalies.
 
 ---
