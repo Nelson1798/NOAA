@@ -55,7 +55,7 @@ All notebooks authenticate with Google Earth Engine using a shared service accou
 <!-- | Resource | Details |
 |---|---|
 | Service account | `gee-notebook-user@natural-notch-435413-j3.iam.gserviceaccount.com` |
-| Key file (Drive) | [Download](https://drive.google.com/file/d/181IKB3sJ3iUn6ZOZbg50htgH2JKcxFkT/view?usp=sharing) |
+| Key file | `Shareddrives/NOAA-workshop2/credentials/gee_service_account.json` (Shared Drive members only) |
 | Shared Drive | `Shareddrives/NOAA-workshop2` | -->
 <br>
 <br>
