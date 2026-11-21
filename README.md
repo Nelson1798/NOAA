@@ -52,9 +52,9 @@ The primary objective is to equip national meteorological agencies with the skil
 
 **Core Objective:** Explore how weather and seasonal forecasts relate to national maize yield in Zambia, Malawi, Zimbabwe, Botswana, Mozambique and Nigeria (1984–2024): seasonal rainfall, SPI-3, heat days, ENSO and lead-zero seasonal forecast skill. The practical ends with a group country brief.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nelson1798/NOAA/blob/exercise-3/Exercise_3/Practical_1_weather_yield/yield_weather_practical_restored.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAHMO/NOAA/blob/zambia-workshop/Exercise_3/Practical_1_weather_yield/yield_weather_practical_restored.ipynb)
 
-Materials: [Exercise_3/Practical_1_weather_yield](Exercise_3/Practical_1_weather_yield) (task sheet, country brief sheet, fallback plots) · Slides: [01_seasonal_risk.pptx](Exercise_3/slides/01_seasonal_risk.pptx)
+Folder: [Exercise_3/Practical_1_weather_yield](Exercise_3/Practical_1_weather_yield)
 
 ---
 
@@ -62,9 +62,9 @@ Materials: [Exercise_3/Practical_1_weather_yield](Exercise_3/Practical_1_weather
 
 **Core Objective:** Apply SPW v2, the rain rules GAP uses to advise farmers when to plant, at one example point in Zambia, Malawi or Nigeria for the 2023 and 2024 seasons. Compare it with the original 40 mm rule, and check it against observed rainfall, soil moisture and One Acre Fund farm yields in Malawi. The practical ends with a group planting-window output.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nelson1798/NOAA/blob/exercise-3/Exercise_3/SPW_v2_lite_practical/spw_practical_toolkit_v2.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TAHMO/NOAA/blob/zambia-workshop/Exercise_3/SPW_v2_lite_practical/spw_practical_toolkit_v2.ipynb)
 
-Materials: [Exercise_3/SPW_v2_lite_practical](Exercise_3/SPW_v2_lite_practical) (task sheet, planting window sheet, fallback plots, SPW intro slides)
+Folder: [Exercise_3/SPW_v2_lite_practical](Exercise_3/SPW_v2_lite_practical)
 
 > **Exercise 3 notebooks:** no Google Earth Engine or live data is needed, because all the data is packaged in each practical's `data/` folder. In Colab, run the first cell (*Colab setup*): it copies that `data/` folder into the Colab session, and then every section runs as written.
 
